@@ -6,4 +6,4 @@
 
 ## Sobre mi
 
-- 📲 Mobile developer
+- 📊 Data Analytics
